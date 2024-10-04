@@ -20,7 +20,7 @@ export async function inicializeDatabase(database: SQLiteDatabase){
 
         );
 
-         -- INSERT INTO usuarios (nome,email,senha,cep,endereco,numero,complemento,telefone,selectedPlan) VALUES ('lucas unzer','lucasunzer@gmail.com','18102006','192983','rua natal coneglian vila cachuerinha','112','perto da vila das puta','1499999999','Outros');
+         -- INSERT INTO usuarios (nome,email,senha,cep,endereco,numero,complemento,telefone,selectedPlan) VALUES ('anna laura','annalaura@gmail.com','15012007','19456783','josé placca','300','perto do oba oba','1440228922','Outros');
 
         `
     );
